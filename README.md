@@ -1,8 +1,8 @@
 # FAQ
 Often asked questions
 
-1. [Dansk](#Dansk)
-2. [English](#English)
+1. [På dansk](#Dansk)
+2. [In english](#English)
 
 # Dansk <a name="Dansk"></a>
 
