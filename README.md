@@ -101,7 +101,7 @@ A:|No. The server is made for Linux distributions.
 ---------|---------
 Q:|I have trouble installing Docker
 A1:|Read the information in [installing guide](https://docs.docker.com/engine/install/)
-A2:|Selinux can create trouble for docker, and should be set in permissive mode, read how in this [selinux guide]((https://www.thegeekdiary.com/what-are-selinux-modes-and-how-to-set-them/))
+A2:|Selinux can create trouble for docker, and should be set in permissive mode, read how in this [selinux guide](https://www.thegeekdiary.com/what-are-selinux-modes-and-how-to-set-them/)
 
 
 |<img width=20/>|<img width=700/>
