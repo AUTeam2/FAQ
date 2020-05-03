@@ -155,4 +155,4 @@ A:|Outside of the container, this commando can be used:<br>**docker-compose exec
 |<img width=20/>|<img width=700/>
 ---------|---------
 Q:|How do I make a new admin user on the server setup? (in the end it will only work on a local version of the system)
-A:|Outside of the container, this commando can be used:<br>**docker-compose exec webinterface python manage.py createsuperuser --username   ditnavn --email din@email.dk**<br>More information can be found [here](https://github.com/AUTeam2/server-setup/blob/master/README.md)
+A:|Outside of the container, this commando can be used:<br>**docker-compose exec webinterface python manage.py createsuperuser --username   yourname --email your@email.dk**<br>More information can be found [here](https://github.com/AUTeam2/server-setup/blob/master/README.md)
