@@ -137,7 +137,7 @@ A:|Pycharm, a pro version is available by using your au mail, guides to all used
 |<img width=20/>|<img width=700/>
 ---------|---------
 Q:|Can you show me how to use docker-compose?
-A:|There are video guides [here](https://github.com/AUTeam2/standards/blob/master/Videoguides.md), ellers prøv google...
+A:|There are video guides [here](https://github.com/AUTeam2/standards/blob/master/Videoguides.md), or try google...
 
 
 |<img width=20/>|<img width=700/>
