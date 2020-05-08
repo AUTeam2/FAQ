@@ -81,6 +81,12 @@ A:|Hvis man er udenfor containeren bruges denne kommando:<br>**docker-compose ex
 Q:|Hvordan laver man en ny admin bruger på server setuppet? (vil til sidst kun virke på local git download af systemet)
 A:|Hvis man er udenfor containeren bruges denne kommando:<br>**docker-compose exec webinterface python manage.py createsuperuser --username   ditnavn --email din@email.dk**<br>Yderligere info findes [her](https://github.com/AUTeam2/server-setup/blob/master/README.md)
 
+
+|<img width=20/>|<img width=700/>
+---------|---------
+Q:|Jeg har problemer med at bruge test-stubben.
+A:|Klienten er konstrueret med python 3.8, det kan ikke garanteres at den virker med tidligere versioner.
+
 # English <a name="English"></a>
 ## Generel information:
 Dont make any changes, except for the test module your working with, or it could create problems in the system. If you change something your not supposed to, and it wrecks the system, the best solution would be to reinstall the server setup, and copy your module into the freshly created container. 
@@ -156,3 +162,9 @@ A:|Outside of the container, this commando can be used:<br>**docker-compose exec
 ---------|---------
 Q:|How do I make a new admin user on the server setup? (in the end it will only work on a local version of the system)
 A:|Outside of the container, this commando can be used:<br>**docker-compose exec webinterface python manage.py createsuperuser --username   yourname --email your@email.dk**<br>More information can be found [here](https://github.com/AUTeam2/server-setup/blob/master/README.md)
+
+
+|<img width=20/>|<img width=700/>
+---------|---------
+Q:|I'm having trouble using the test-stub.
+A:|The test-stub was created using python 3.8, it might not work with earlier versions.
